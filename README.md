@@ -1,12 +1,8 @@
-## Привет, я Михаил!
+## Hi, I'm Mikhail!
 
 ---
 
-## О себе
-
-Я создаю надежные, масштабируемые серверные системы и API-интерфейсы, которые обеспечивают работу современных приложений. Уделяя особое внимание чистой архитектуре и оптимизации производительности, я преобразую сложные бизнес-требования в удобный и эффективный код.
-
-В настоящее время я ищу возможности внести свой вклад в значимые проекты, одновременно расширяя свой опыт в области распределенных систем.
+I build reliable, scalable server-side systems and APIs that power modern applications. With a strong focus on clean architecture and performance optimization, I transform complex business requirements into clean, efficient code.
 
 ---
 
@@ -19,6 +15,5 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?logo=Insomnia&logoColor=white)
