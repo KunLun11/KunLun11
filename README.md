@@ -6,8 +6,6 @@ I build reliable, scalable server-side systems and APIs that power modern applic
 
 ---
 
-## Технический стек
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
